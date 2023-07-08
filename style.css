@@ -10,13 +10,13 @@
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #6563FF;
+    background: #8e034d;
   }
   
   .game-board {
     padding: 25px;
     border-radius: 10px;
-    background: #F8F8F8;
+    background: #d3568c;
     box-shadow: 0 10px 30px rgba(0,0,0,0.1);
   }
   .cards,
@@ -50,7 +50,7 @@
   height: 100%;
   position: absolute;
   border-radius: 7px;
-  background: #fff;
+  background: #ffffff;
   pointer-events: none;
   backface-visibility: hidden;
   box-shadow: 0 3px 10px rgba(0,0,0,0.1);
